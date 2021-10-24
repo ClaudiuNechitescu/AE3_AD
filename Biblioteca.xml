@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<llibres>
+    <llibre id="1234">
+        <titol>Harry Potter</titol>
+        <autor>J.K Rowling</autor>
+        <any>1970</any>
+        <editorial>A</editorial>
+        <editorial>254</editorial>
+    </llibre>
+</llibres>
